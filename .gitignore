@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.mplconfig/
+
+~$*.docx
+Tutorial-11-Report.docx
